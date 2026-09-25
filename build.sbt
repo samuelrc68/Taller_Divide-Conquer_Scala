@@ -6,3 +6,5 @@ lazy val root = (project in file("."))
   .settings(
     name := "proyecto-quicksort"
   )
+
+libraryDependencies += "org.scalameta" %% "munit" % "1.1.0" % Test
