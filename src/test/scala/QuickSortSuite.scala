@@ -1,0 +1,5 @@
+menores
+mayores
+appendTR
+separar
+quickSort
